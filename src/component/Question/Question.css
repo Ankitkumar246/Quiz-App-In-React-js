@@ -1,0 +1,22 @@
+
+
+.question-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .option {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .option.selected {
+    background-color: red;
+    color: white; 
+  }
+  

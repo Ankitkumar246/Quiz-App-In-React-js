@@ -1,0 +1,52 @@
+[
+    {
+      "question": "What is React?",
+      "options": [" A programming language", "A JavaScript framework for building user interfaces", " A database management system", " An operating system"],
+      "correctAnswer": "A JavaScript framework for building user interfaces"
+    },
+    {
+        
+      "question": "In React, which method is used to update the component when its state or props change??",
+      "options": ["`render()`", "`componentWillUpdate()`", "`shouldComponentUpdate()`", "`ComponentDidUpdate()`"],
+      "correctAnswer": "componentDidUpdate()"
+    },
+    {
+        "question": "What does JSX stand for in React?",
+        "options": ["JavaScript XML", "Java Standard Extension" , "JSON XHR", "JavaScript XHR"],
+        "correctAnswer": "JavaScript XML"
+        
+
+    }
+    ,{
+        "question": "In React, what is the purpose of the virtual ?",
+        "options": [" To display HTML content", " To manage database operations", "To provide a simulation of the real DOM for performance optimization", "To handle network requests"],
+        "correctAnswer": "To provide a simulation of the real DOM for performance optimization"
+    },{
+        "question": "In React, what is a prop?",
+        "options": ["A local state variable", "A method of rendering components", "A way to pass data from parent to child components", "A build-in React Components"],
+        "correctAnswer": " A way to pass data from parent to child components"
+    },{
+        "question": "What does React Router do in a React application?",
+        "options": ["It manage the internal of components", "It provides a way to create animations in React", "It helps in routing and navigating between different views in a single-page application", " It handles authentication and authorization processes"],
+        "correctAnswer": " It helps in routing and navigating between different views in a single-page application"
+    },{
+        "question": "What is the role of the Redux library in a React application?",
+        "options": ["It helps in routing and navigation", "It provides a way to manage global state and state changes", " It handles the styling and layout of components", " It enables server-side rendering in React applications"],
+        "correctAnswer": "It provides a way to manage global state and state changes"
+    },{
+        "question": "What is the significance of the React.Fragment element?",
+        "options": ["It is used to create functional components in React"," It provides a way to group multiple elements without adding an additional DOM node"," It is a part of the React Router library"," It defines the root element of a React application"],
+        
+        "correctAnswer": "It provides a way to group multiple elements without adding an additional DOM node"
+    },{
+        "question": "What are React refs used for?",
+        "options": ["To define the rendering order of components", "To access the DOM nodes directly to React component ", "To define the structure of the virtual DOM", "To manage component props and state"],
+        "correctAnswer": "To access the DOM nodes directly in React components"
+    },{
+        "question": "In React, what is the purpose of the children prop?",
+        "options": ["It defines the color scheme of child components", " It specifies the font size of child components", "It provides a way to pass elements or components as children to another component", " It manages the state of child components"],
+        "correctAnswer": " It provides a way to pass elements or components as children to another component"
+
+    }
+]
+  

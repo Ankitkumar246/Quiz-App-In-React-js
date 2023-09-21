@@ -1,0 +1,35 @@
+.form-container{
+  width:40%;
+  background-color:lightslategray;
+  height: 40vh;
+
+
+ 
+}
+.Heading{
+  
+  font-size: 26px;
+  font-weight: 900;
+}
+.input1{
+  border-radius: 5px ;
+  width:150px;
+  height: 30px;
+  display: block;
+  text-align: center;
+  align-items: center;
+
+}
+.input2{
+  margin-top: 15px;
+  border-radius: 5px ;
+  width:150px;
+  height: 30px;
+  
+}
+.btn button{
+  padding: 8px;
+background-color: black;
+color: white;
+margin-top: 15px;
+}
